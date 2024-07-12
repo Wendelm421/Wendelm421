@@ -12,11 +12,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
 </div>
 
-###
-
-<img src="https://raw.githubusercontent.com/Wendel/Wendel/output/snake.svg" alt="Snake animation" />
-
-###
 
 <!---
 **Wendelm421/Wendelm421** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
