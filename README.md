@@ -1,5 +1,3 @@
-<img src="https://i.pinimg.com/originals/71/ee/32/71ee32577432648f9e45fbd63b2cf261.jpg" height="360" alt="240" />
-
 <p align="left">Hi there 👋 my name is Wendel I am brasilian  🇧🇷<br><br>🔹I'm a FATEC student<br><br>🔹junior front-end developer 👨🏽‍💻</br></p>
 
 ###
@@ -13,7 +11,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  >
 </div>
-
+<img src="https://github.com/marketplace/actions/generate-snake-game-from-github-contribution-grid" />
 <!---
 **Wendelm421/Wendelm421** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
