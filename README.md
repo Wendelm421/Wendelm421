@@ -1,3 +1,5 @@
+<img src="https://i.pinimg.com/originals/71/ee/32/71ee32577432648f9e45fbd63b2cf261.jpg" />
+
 <p align="left">Hi there 👋 my name is Wendel I am brasilian  🇧🇷<br><br>🔹I'm a FATEC student<br><br>🔹junior front-end developer 👨🏽‍💻</br></p>
 
 ###
