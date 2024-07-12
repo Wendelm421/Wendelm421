@@ -11,7 +11,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  >
 </div>
-<img src="https://github.com/marketplace/actions/generate-snake-game-from-github-contribution-grid" />
+<img src="[https://github.com/marketplace/actions/generate-snake-game-from-github-contribution-grid](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)" />
 <!---
 **Wendelm421/Wendelm421** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
