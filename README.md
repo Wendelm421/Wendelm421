@@ -1,7 +1,7 @@
-## Hi there 👋 my name is Wendel I am brasilian  🇧🇷
+<p align="left">Hi there 👋 my name is Wendel I am brasilian  🇧🇷<br><br>🔹I'm a FATEC student<br><br>🔹junior front-end developer 👨🏽‍💻</br></p>
 
-🔹I'm a FATEC student
-<br>🔹junior front-end developer 👨🏽‍💻</br>
+###
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
@@ -12,7 +12,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
 </div>
 
+###
 
+<img src="https://raw.githubusercontent.com/Wendel/Wendel/output/snake.svg" alt="Snake animation" />
+
+###
 <!---
 **Wendelm421/Wendelm421** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
