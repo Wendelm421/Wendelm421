@@ -1,4 +1,4 @@
-<p align="left">Hi there 👋 my name is Wendel I am brasilian  🇧🇷<br><br>🔹I'm a FATEC student<br><br>🔹junior front-end developer 👨🏽‍💻</br></p>
+<p align="left">Hi there 👋 my name is Wendel I am brasilian  🇧🇷<br><br>🔹I'm a FATEC student<br><br>🔹Front-end developer 👨🏽‍💻</br></p>
 
 ###
 
