@@ -1,5 +1,4 @@
 <p align="left">Hi there 👋 my name is Wendel I am brasilian  🇧🇷<br><br>🔹I'm a FATEC student<br><br>🔹Front-end developer 👨🏽‍💻</br></p>
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
@@ -17,7 +16,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
 </div>
 
-###
+
 <!---
 **Wendelm421/Wendelm421** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
